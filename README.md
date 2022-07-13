@@ -1,11 +1,12 @@
-## Oiii eu sou a Gabriela Romualdo!
+## Olá me Gabriela Romualdo!✌🏻
 
-```
-Estudante de Análise e Desenvolvimento de Sistemas pela UNIP - Universidade Paulista,
-Atualmenete estou me dedicando a me tornar uma dev Front-end.
-```
+<p>
+Atualmente sou Estagiaria de Engenharia de Software e estudante de Análise e Desenvolvimento de Sistemas na UNIP.
+Busco agregar e desenvolver ainda mais meus conhecimentos em lógica, métodos, desenvolvimento de software, linguagem e técnicas de programação.
+</p>
 
 <div align="center">
+  <h5><a href="https://gabih94.github.io/">Site Portfólio</a></h5>
   <img src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif">
  </div>
 
@@ -18,6 +19,10 @@ Atualmenete estou me dedicando a me tornar uma dev Front-end.
   <img align="center" alt="Gabi-Jq" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabi-php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Gabi-MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
+          
 </div>
   
  ##
