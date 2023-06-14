@@ -1,9 +1,13 @@
 ## Olá me Gabriela Romualdo!✌🏻
 
 <p>
-Atualmente sou Estagiaria de Engenharia de Software e estudante de Análise e Desenvolvimento de Sistemas na UNIP.
-Busco agregar e desenvolver ainda mais meus conhecimentos em lógica, métodos, desenvolvimento de software, linguagem e técnicas de programação.
-</p>
+Olá, seja bem-vindo(a) ao meu perfil
+
+Sou apaixonado(a) por tecnologia e estou constantemente aprimorando meus conhecimentos para crescer profissionalmente. Atualmente, possuo habilidades básicas em linguagens como JavaScript, TypeScript, React e Ruby, e também tenho experiência em HTML e CSS.
+
+Dentro da minha jornada profissional fui estagiária na empresa Smartfit, onde atualmente sou engenharia de software assistente. Durante essa experiência, pude adquirir um entendimento prático das melhores práticas de desenvolvimento, trabalhando em projetos desafiadores e colaborando em equipes multidisciplinares.
+
+Meu entusiasmo em aprender e enfrentar desafios impulsiona meu crescimento contínuo na área de desenvolvimento de software. Valorizo a qualidade do código, buscando sempre a padronização e a atenção aos detalhes, com o objetivo de proporcionar uma experiência agradável para os usuários.
 
 <div align="center">
   <h5><a href="https://gabih94.github.io/">Site Portfólio</a></h5>
