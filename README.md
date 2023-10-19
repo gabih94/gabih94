@@ -3,7 +3,6 @@ Me chamo Gabriela, mas pode me chamar de Gabi. Gosto de criar e aprender, e sigo
 Estou construindo meu <a href="https://gabih94.github.io/">Portfólio</a>
 
 ## Mais sobre mim
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
 const nome = "Gabriela M. Romualdo";
@@ -15,6 +14,8 @@ const cargo = "Desenvolvedora Front-end";
 const conhecimentos = [ "JavaScript", "HTML", "CSS3", "React Native", "TypeScript", "Git", "Linux", "Node.js" ];
 
 ```
+
+<img width="600" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ##
 
